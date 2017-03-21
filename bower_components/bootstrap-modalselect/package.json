@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-multiselect",
+  "version": "0.0.1",
+  "description": "Replaces native select elements with a modal containing checkboxes or radio buttons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/K12Labs/bootstrap-multiselect.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "ui",
+    "multiselect",
+    "form",
+    "select"
+  ],
+  "author": "Brandon Mueller (K12 Services, INC)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/K12Labs/bootstrap-multiselect/issues"
+  },
+  "homepage": "https://github.com/K12Labs/bootstrap-multiselect"
+}

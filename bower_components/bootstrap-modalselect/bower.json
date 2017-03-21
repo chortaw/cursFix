@@ -1,0 +1,27 @@
+{
+    "name": "bootstrap-modalselect",
+    "version": "0.0.3",
+    "homepage": "https://github.com/K12Labs/bootstrap-multiselect",
+    "authors": [
+        "Brandon Mueller <bmueller@k12servicesinc.com>"
+    ],
+    "description": "replaces native select elements with a modal containing checkboxes or radio buttons",
+    "main": "src/bootstrap-multiselect.js",
+    "keywords": [
+        "bootstrap",
+        "ui",
+        "form",
+        "multiselect"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "~3.1.1"
+    }
+}
